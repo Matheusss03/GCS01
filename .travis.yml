@@ -7,8 +7,6 @@ python:
 install:
   - pip install -r requirements.txt
 
-script: python manage.py migrate
-
 deploy:
   provider: heroku
   api_key: 854bf00b-f121-44e3-8304-e236fd90fd60
