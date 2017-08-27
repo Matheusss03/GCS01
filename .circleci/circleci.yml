@@ -54,4 +54,4 @@ deployment:
   staging:
     branch: master
     heroku:
-      appname: gcs01-Matheusss03-circle​
+      appname: gcs01-matheusss03-circle​
