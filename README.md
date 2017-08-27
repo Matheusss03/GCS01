@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/Matheusss03/GCS01.svg?branch=master)](https://travis-ci.org/Matheusss03/GCS01)
 
+[![CircleCI](https://circleci.com/gh/Matheusss03/GCS01/tree/master.svg?style=svg)](https://circleci.com/gh/Matheusss03/GCS01/tree/master)
+
 # Django Basico
 
 ## Ambiente de Dev
