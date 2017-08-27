@@ -4,7 +4,7 @@ python:
   - "3.2"
   - "3.3"
 
-script: pytest
+script: python manage.py migrate
 
 deploy:
   provider: heroku
