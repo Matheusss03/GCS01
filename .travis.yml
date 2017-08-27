@@ -10,3 +10,8 @@ install:
   - pip install -r requirements.txt
 
 script: pytest
+
+deploy:
+  provider: heroku
+  api_key: 854bf00b-f121-44e3-8304-e236fd90fd60
+  app: gcs01-Matheusss03-travis
