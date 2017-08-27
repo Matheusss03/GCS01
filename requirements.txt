@@ -34,5 +34,3 @@ scikit-learn==0.18.1
 scipy==0.18.1
 scour==0.32
 six==1.10.0
-unity-lens-photos==1.0
-urllib3==1.22
